@@ -2,7 +2,7 @@
 ## Troubleshooting
 ### Audio
 #### No audio devices showing in audio control panel?  
-``` 
+```bash
 pulsaudio -vvv
 ...
 E: [pulseaudio] module-ladspa-sink.c: Master sink not found
@@ -10,4 +10,11 @@ E: [pulseaudio] module.c: Failed to load module "module-ladspa-sink" (argument: 
 E: [pulseaudio] main.c: Module load failed.
 E: [pulseaudio] main.c: Failed to initialize daemon.
 ```
+
 This answer on SO seems to do the trick.  [Delete ~/.config/pulse and restart pulseaudio.](http://askubuntu.com/a/549228/116968)
+
+#### Alternate config applet (kcmshell4)
+
+```bash
+/usr/bin/kcmshell4 kcm_phonon
+```
