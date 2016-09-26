@@ -1,5 +1,5 @@
 ## Color profiles
-[Apply a color profile via the shell (Terminal)](http://askubuntu.com/a/621435)
+[Manage color profile via the shell (Terminal)](http://askubuntu.com/a/621435)
 ```bash
 # List devices
 colormgr get-devices 
