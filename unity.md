@@ -1,5 +1,5 @@
 ## Widnow Docking/Snapping (grid)
-I like Mint 18/Cinnamon docking/snapping behavior (itself a clone of Windows Aero snapping?)
+I like Mint 18/Cinnamon docking/snapping behavior (itself a clone of [Windows 7 ("Aero") snapping](http://www.pcworld.com/article/184194/Use_Keyboard_Shortcuts_for_Faster_Aero_Snapping.html).. which I liked a lot when I was still using Windows.)
 
 There's limited supported in Unity, though.  
 
