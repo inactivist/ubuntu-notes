@@ -1,5 +1,5 @@
 ## Widnow Docking/Snapping (grid)
-I like Mint 18/Cinnamon docking/snapping behavior (itself a clone of Windows 7 "Aero" snapping, which I liked a lot when I was still using Windows.)
+I like [Cinnamon 2.0 docking/snapping behavior](http://segfault.linuxmint.com/2013/10/cinnamon-2-0-released/) (itself a clone of Windows 7 "Aero" snapping, which I liked a lot when I was still using Windows.)
 
 From [Use Keyboard Shortcuts for Faster Aero Snapping](http://www.pcworld.com/article/184194/Use_Keyboard_Shortcuts_for_Faster_Aero_Snapping.html):
 >Specifically, tap Windows-Left Arrow to "snap" any selected window to the left side of the screen. Naturally, tapping Windows-Right Arrow snaps the selected window to the right side. (This comes in especially handy if you use multiple monitors, as you can't drag a window to the right edge of your lefthand screen or the left edge of your righthand screen.)
