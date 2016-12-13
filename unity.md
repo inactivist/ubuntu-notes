@@ -6,7 +6,7 @@ From [Use Keyboard Shortcuts for Faster Aero Snapping](http://www.pcworld.com/ar
 >
 >While we're on the subject, Windows-Up Arrow maximizes the selected window, while Windows-Down Arrow returns it to its previous location and size.
 
-There's limited supported in Unity, though.  
+The default keys are different in Unity, though.  
 
 The default keys are:
 - \<Ctrl\>-\<Super\>\<left\> (snap left)
