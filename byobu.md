@@ -11,5 +11,8 @@ alias byobu-show-tmux-keybindings='grep BYOBU /usr/share/byobu/keybindings/f-key
 
 ## Cheat sheet
 
-M-F6 (ALT-F6) : Detach all but current client
+| Key Combo  | Action |
+| ------------- | ------------- |
+| M-F6 (ALT-F6)  |Detach all but current client  |
+
 
