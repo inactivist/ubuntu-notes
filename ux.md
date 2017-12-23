@@ -20,3 +20,4 @@ https://forums.gentoo.org/viewtopic-t-948904-start-0.html
 ### Window manager Aero Snap 
 I Like Windows 7 Aero Snap feature, and it's fully-enabled by default in to Linux Mint (Cinnamon) desktop, using Super key + arrows.  Ubuntu Unity seems to support it using Ctrl-alt-numpad keys.  Would be nice if those of us without numpad keyboards could use the full range of Snap destinations.
 - [How can I set up a keyboard shortcut to Aero snap windows in Gnome shell](https://askubuntu.com/questions/89666/how-can-i-set-up-a-keyboard-shortcut-to-aero-snap-windows-in-gnome-shell#401339)
+- [Set up hot corners for Compiz Grid](http://www.webupd8.org/2011/01/set-up-hot-corners-for-compiz-grid.html)
