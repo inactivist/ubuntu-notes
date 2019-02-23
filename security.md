@@ -8,7 +8,7 @@
 https://superuser.com/a/853897
 
 
-1. Getting a shell with the new group without logging out and in again###
+1. Getting a shell with the new group without logging out and in again
 
 If you're only adding one group, I used the following:
 
