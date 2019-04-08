@@ -50,4 +50,5 @@ done
 ### Addendum
 
 https://www.virtualbox.org/ticket/11577#comment:8
-https://forums.virtualbox.org/viewtopic.php?f=7&t=91160#p437951
+
+Some specific instructions [here](https://forums.virtualbox.org/viewtopic.php?f=7&t=91160#p437951)
