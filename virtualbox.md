@@ -47,3 +47,6 @@ done
 
 > The procedure can also be used to sign other third party kernel modules, like the nvidia graphics drivers, if so is required. (I have not tested that myself.)
 
+### Addendum
+
+https://www.virtualbox.org/ticket/11577#comment:8
