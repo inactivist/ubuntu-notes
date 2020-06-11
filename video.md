@@ -1,3 +1,7 @@
+## ffmpeg 
+
+- [Stream webcams to other computers using ffmpeg](http://4youngpadawans.com/stream-camera-video-and-audio-with-ffmpeg/)
+
 ## View webcam content with MPV
 
 [Based on this issue](https://github.com/mpv-player/mpv/issues/4614#issuecomment-602697806)
