@@ -1,6 +1,7 @@
 ## ffmpeg 
 
 - [Stream webcams to other computers using ffmpeg](http://4youngpadawans.com/stream-camera-video-and-audio-with-ffmpeg/)
+- Build complex filter graphs in python with [ffmpeg-python](https://github.com/kkroening/ffmpeg-python)
 
 ## View webcam content with MPV
 
