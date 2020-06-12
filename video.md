@@ -1,6 +1,7 @@
 ## ffmpeg 
 
 - [Stream webcams to other computers using ffmpeg](http://4youngpadawans.com/stream-camera-video-and-audio-with-ffmpeg/)
+- [low-latency UDP streaming with ffmpeg](https://stackoverflow.com/questions/21213895/how-to-stream-live-videos-with-no-latency-ffplay-mplayer-and-what-kind-of-wra/30754270#30754270)
 - Build complex filter graphs in python with [ffmpeg-python](https://github.com/kkroening/ffmpeg-python)
 
 ## View webcam content with MPV
