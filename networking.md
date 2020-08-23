@@ -12,3 +12,12 @@ $ sudo systemd-resolve --statistics
 ```
 [Reference](https://askubuntu.com/a/909173)
 
+
+## Miscellany
+
+### Wired LAN precedence over wireless
+
+- TODO: nmcli set routing metric to prefer wired over wireless
+- [How can I make ethernet take precedence over wifi on Ubuntu 18.04?](https://unix.stackexchange.com/questions/494864/how-can-i-make-ethernet-take-precedence-over-wifi-on-ubuntu-18-04)
+- [How do I configure a linux machine to ignore wifi when connected via LAN?
+](https://superuser.com/questions/630981/how-do-i-configure-a-linux-machine-to-ignore-wifi-when-connected-via-lan)
