@@ -65,6 +65,8 @@ elif [ "$iface_type" = "ethernet" ] && [ "$iface_mode" = "up"  ] && [ "$iface_st
   disable_wifi
 fi
 ```
+After creating the file, make it executable (`chmod +x /etc/NetworkManager/dispatcher.d/70-wifi-wired-exclusive.sh`)
+
 If we want to disable this script, instead of deleting it we can just do
 
     touch /etc/NetworkManager/.wifi-wired-exclusive.disabled
