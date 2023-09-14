@@ -1,3 +1,15 @@
+## FlatPak filesystem access (sandbox)
+
+Help!  FlatPak installed Gimp won't open files in home directory!
+
+
+```bash
+sudo flatpak override org.gimp.GIMP --filesystem=${full-path}
+```
+
+[source](https://askubuntu.com/questions/1086529/how-to-give-a-flatpak-app-access-to-a-directory/1094903#1094903)
+
+
 ## Control `/tmp` cleanup at boot
 Edit `/etc/default/rcS` and set `TMPTIME=30` to retain files modified within last 30 days.  Adjust value accordingly.
 
